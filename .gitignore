@@ -1,0 +1,6 @@
+/YSchool/obj/
+/YSchool/bin/
+/packages/
+*.csproj.user
+*.suo
+.vs/
